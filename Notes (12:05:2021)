@@ -1,0 +1,12 @@
+# MICM-ZSD-Spectrum
+Notes (12/05/2021)
+Excel graph has multiple disease domains to represent systemic affects of ZSD.
+Overview of disease: Mutations in 13 PEX genes:
+PEX1 causes 70% of mutations.
+PEX6 causes 30% of mutations.
+The goal is to move away from NALD and IRD and use a mild to severe gray scale.
+For interemediate cases, hypotonia is usualy seen first.
+PEX1,6,26 are all associated with vision loss and hearing loss.
+The overall goal is to use this robust quantification scale for monitoring disease progressment and to have a score to quanitfy disease burden.
+This study has 140 patients which is the largest cohort yet.
+Possibly going down the machine learning route vs biostatistical method could be interesting and more robust for this project.
