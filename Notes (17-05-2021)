@@ -1,0 +1,16 @@
+# MICM-ZSD-Spectrum
+Notes on MixEHR Paper (17-05-2021)
+Paper title: Inferring multimodal latent topics from EHRs [*EHR = Electronic Health Records]
+To address the specific challenges that come from EHRs being the dataset, the paper uses MixEHR (a multi-view Bayesian topic model)
+Goal of this paper:
+Formulate a latent topic model over discrete data.
+Method:
+Considering each patient as a 'document'; considering each disease as a 'topic'.
+Disease = recurent combinations of individual phenotypes.
+Refined goal:
+Identify meaningful disease topics and apply them to find the probability for each topic.
+MixEHR is based on LDA (latent Dirichtet allocation)
+Data cleaning involves (1) Tokenizing (2) Stopping (3) Stemming
+Tokenizing: Converting each document to its atomic elements.
+Stopping: Removing convoluted or meaningless words.
+Stemming: Merging words equivalent in meaning.
