@@ -1,5 +1,0 @@
-# MICM-ZSD-Spectrum
-Notes (18/05/2021)
-MixEHR is building on matrix factorisation.
-This means it it transforming data into frequency and categorising every variable to calculate the frequency.
-Python needs to be used for this methodology.
